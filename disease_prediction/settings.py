@@ -163,10 +163,10 @@ JAZZMIN_SETTINGS = {
     "site_icon": None,
 
     # Welcome text on the login screen
-    "welcome_sign": "Welcome to the Early Disease Detection Project",
+    "welcome_sign": "Welcome to the Disease detection system using machine learning ",
 
     # Copyright on the footer
-    "copyright": "Early Disease Detection Project",
+    "copyright": "Disease detection system using machine learning ",
 
     # List of model admins to search from the search bar, search bar omitted if excluded
     # If you want to use a single search field you dont need to use a list, you can use a simple string 

@@ -38,6 +38,6 @@ urlpatterns += i18n_patterns(
 )
 
 admin.site.login = 'custom_login'
-admin.site.index_title = "Early Disease Detection Project"
-admin.site.site_header = "Early Disease Detection Project"
-admin.site.site_title = "Early Disease Detection Project"  
+admin.site.index_title = "Disease detection system using machine learning "
+admin.site.site_header = "Disease detection system using machine learning "
+admin.site.site_title = "Disease detection system using machine learning "  
